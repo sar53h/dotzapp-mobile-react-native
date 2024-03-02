@@ -1,0 +1,22 @@
+{
+  "name": "dotzapp-mobile-react-native",
+  "version": "1.0.0",
+  "description": "## Based on CodeIgniter 4.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sar53h/dotzapp-mobile-react-native.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sar53h/dotzapp-mobile-react-native/issues"
+  },
+  "homepage": "https://github.com/sar53h/dotzapp-mobile-react-native#readme"
+}
